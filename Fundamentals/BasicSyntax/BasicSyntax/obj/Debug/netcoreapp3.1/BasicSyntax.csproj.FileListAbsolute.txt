@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.exe
+C:\Users\Slavi\source\repos\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.deps.json
+C:\Users\Slavi\source\repos\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.runtimeconfig.json
+C:\Users\Slavi\source\repos\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.dll
+C:\Users\Slavi\source\repos\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.pdb
+C:\Users\Slavi\source\repos\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.dll
+C:\Users\Slavi\source\repos\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.pdb
