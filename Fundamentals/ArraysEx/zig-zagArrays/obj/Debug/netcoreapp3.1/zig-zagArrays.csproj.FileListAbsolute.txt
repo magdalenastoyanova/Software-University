@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\ArraysEx\zig-zagArrays\bin\Debug\netcoreapp3.1\zig-zagArrays.exe
+C:\Users\Slavi\source\repos\ArraysEx\zig-zagArrays\bin\Debug\netcoreapp3.1\zig-zagArrays.deps.json
+C:\Users\Slavi\source\repos\ArraysEx\zig-zagArrays\bin\Debug\netcoreapp3.1\zig-zagArrays.runtimeconfig.json
+C:\Users\Slavi\source\repos\ArraysEx\zig-zagArrays\bin\Debug\netcoreapp3.1\zig-zagArrays.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\ArraysEx\zig-zagArrays\bin\Debug\netcoreapp3.1\zig-zagArrays.dll
+C:\Users\Slavi\source\repos\ArraysEx\zig-zagArrays\bin\Debug\netcoreapp3.1\zig-zagArrays.pdb
+C:\Users\Slavi\source\repos\ArraysEx\zig-zagArrays\obj\Debug\netcoreapp3.1\zig-zagArrays.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\ArraysEx\zig-zagArrays\obj\Debug\netcoreapp3.1\zig-zagArrays.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\ArraysEx\zig-zagArrays\obj\Debug\netcoreapp3.1\zig-zagArrays.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\ArraysEx\zig-zagArrays\obj\Debug\netcoreapp3.1\zig-zagArrays.dll
+C:\Users\Slavi\source\repos\ArraysEx\zig-zagArrays\obj\Debug\netcoreapp3.1\zig-zagArrays.pdb
