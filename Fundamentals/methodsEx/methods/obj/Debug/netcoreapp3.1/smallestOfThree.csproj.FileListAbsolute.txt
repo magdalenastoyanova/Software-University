@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\methodsEx\methodsEx\bin\Debug\netcoreapp3.1\smallestOfThree.exe
+C:\Users\Slavi\source\repos\methodsEx\methodsEx\bin\Debug\netcoreapp3.1\smallestOfThree.deps.json
+C:\Users\Slavi\source\repos\methodsEx\methodsEx\bin\Debug\netcoreapp3.1\smallestOfThree.runtimeconfig.json
+C:\Users\Slavi\source\repos\methodsEx\methodsEx\bin\Debug\netcoreapp3.1\smallestOfThree.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\methodsEx\methodsEx\bin\Debug\netcoreapp3.1\smallestOfThree.dll
+C:\Users\Slavi\source\repos\methodsEx\methodsEx\bin\Debug\netcoreapp3.1\smallestOfThree.pdb
+C:\Users\Slavi\source\repos\methodsEx\methodsEx\obj\Debug\netcoreapp3.1\smallestOfThree.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\methodsEx\methodsEx\obj\Debug\netcoreapp3.1\smallestOfThree.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\methodsEx\methodsEx\obj\Debug\netcoreapp3.1\smallestOfThree.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\methodsEx\methodsEx\obj\Debug\netcoreapp3.1\smallestOfThree.dll
+C:\Users\Slavi\source\repos\methodsEx\methodsEx\obj\Debug\netcoreapp3.1\smallestOfThree.pdb
