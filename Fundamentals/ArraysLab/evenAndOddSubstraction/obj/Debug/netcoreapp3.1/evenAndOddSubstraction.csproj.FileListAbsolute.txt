@@ -1,0 +1,10 @@
+C:\Users\Slavi\source\repos\ArraysLab\evenAndOddSubstraction\bin\Debug\netcoreapp3.1\evenAndOddSubstraction.exe
+C:\Users\Slavi\source\repos\ArraysLab\evenAndOddSubstraction\bin\Debug\netcoreapp3.1\evenAndOddSubstraction.deps.json
+C:\Users\Slavi\source\repos\ArraysLab\evenAndOddSubstraction\bin\Debug\netcoreapp3.1\evenAndOddSubstraction.runtimeconfig.json
+C:\Users\Slavi\source\repos\ArraysLab\evenAndOddSubstraction\bin\Debug\netcoreapp3.1\evenAndOddSubstraction.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\ArraysLab\evenAndOddSubstraction\bin\Debug\netcoreapp3.1\evenAndOddSubstraction.dll
+C:\Users\Slavi\source\repos\ArraysLab\evenAndOddSubstraction\bin\Debug\netcoreapp3.1\evenAndOddSubstraction.pdb
+C:\Users\Slavi\source\repos\ArraysLab\evenAndOddSubstraction\obj\Debug\netcoreapp3.1\evenAndOddSubstraction.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\ArraysLab\evenAndOddSubstraction\obj\Debug\netcoreapp3.1\evenAndOddSubstraction.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\ArraysLab\evenAndOddSubstraction\obj\Debug\netcoreapp3.1\evenAndOddSubstraction.dll
+C:\Users\Slavi\source\repos\ArraysLab\evenAndOddSubstraction\obj\Debug\netcoreapp3.1\evenAndOddSubstraction.pdb
