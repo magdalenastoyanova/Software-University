@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\methodsLab\triangle\bin\Debug\netcoreapp3.1\triangle.exe
+C:\Users\Slavi\source\repos\methodsLab\triangle\bin\Debug\netcoreapp3.1\triangle.deps.json
+C:\Users\Slavi\source\repos\methodsLab\triangle\bin\Debug\netcoreapp3.1\triangle.runtimeconfig.json
+C:\Users\Slavi\source\repos\methodsLab\triangle\bin\Debug\netcoreapp3.1\triangle.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\methodsLab\triangle\bin\Debug\netcoreapp3.1\triangle.dll
+C:\Users\Slavi\source\repos\methodsLab\triangle\bin\Debug\netcoreapp3.1\triangle.pdb
+C:\Users\Slavi\source\repos\methodsLab\triangle\obj\Debug\netcoreapp3.1\triangle.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\methodsLab\triangle\obj\Debug\netcoreapp3.1\triangle.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\methodsLab\triangle\obj\Debug\netcoreapp3.1\triangle.dll
+C:\Users\Slavi\source\repos\methodsLab\triangle\obj\Debug\netcoreapp3.1\triangle.pdb
+C:\Users\Slavi\source\repos\methodsLab\triangle\obj\Debug\netcoreapp3.1\triangle.csprojAssemblyReference.cache
