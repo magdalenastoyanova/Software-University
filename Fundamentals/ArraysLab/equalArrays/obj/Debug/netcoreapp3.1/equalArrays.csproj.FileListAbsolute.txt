@@ -1,0 +1,10 @@
+C:\Users\Slavi\source\repos\ArraysLab\equalArrays\bin\Debug\netcoreapp3.1\equalArrays.exe
+C:\Users\Slavi\source\repos\ArraysLab\equalArrays\bin\Debug\netcoreapp3.1\equalArrays.deps.json
+C:\Users\Slavi\source\repos\ArraysLab\equalArrays\bin\Debug\netcoreapp3.1\equalArrays.runtimeconfig.json
+C:\Users\Slavi\source\repos\ArraysLab\equalArrays\bin\Debug\netcoreapp3.1\equalArrays.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\ArraysLab\equalArrays\bin\Debug\netcoreapp3.1\equalArrays.dll
+C:\Users\Slavi\source\repos\ArraysLab\equalArrays\bin\Debug\netcoreapp3.1\equalArrays.pdb
+C:\Users\Slavi\source\repos\ArraysLab\equalArrays\obj\Debug\netcoreapp3.1\equalArrays.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\ArraysLab\equalArrays\obj\Debug\netcoreapp3.1\equalArrays.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\ArraysLab\equalArrays\obj\Debug\netcoreapp3.1\equalArrays.dll
+C:\Users\Slavi\source\repos\ArraysLab\equalArrays\obj\Debug\netcoreapp3.1\equalArrays.pdb
