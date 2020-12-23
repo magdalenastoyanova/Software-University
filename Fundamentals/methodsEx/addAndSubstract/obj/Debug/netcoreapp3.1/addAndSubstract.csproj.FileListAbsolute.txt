@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\methodsEx\addAndSubstract\bin\Debug\netcoreapp3.1\addAndSubstract.exe
+C:\Users\Slavi\source\repos\methodsEx\addAndSubstract\bin\Debug\netcoreapp3.1\addAndSubstract.deps.json
+C:\Users\Slavi\source\repos\methodsEx\addAndSubstract\bin\Debug\netcoreapp3.1\addAndSubstract.runtimeconfig.json
+C:\Users\Slavi\source\repos\methodsEx\addAndSubstract\bin\Debug\netcoreapp3.1\addAndSubstract.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\methodsEx\addAndSubstract\bin\Debug\netcoreapp3.1\addAndSubstract.dll
+C:\Users\Slavi\source\repos\methodsEx\addAndSubstract\bin\Debug\netcoreapp3.1\addAndSubstract.pdb
+C:\Users\Slavi\source\repos\methodsEx\addAndSubstract\obj\Debug\netcoreapp3.1\addAndSubstract.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\methodsEx\addAndSubstract\obj\Debug\netcoreapp3.1\addAndSubstract.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\methodsEx\addAndSubstract\obj\Debug\netcoreapp3.1\addAndSubstract.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\methodsEx\addAndSubstract\obj\Debug\netcoreapp3.1\addAndSubstract.dll
+C:\Users\Slavi\source\repos\methodsEx\addAndSubstract\obj\Debug\netcoreapp3.1\addAndSubstract.pdb
