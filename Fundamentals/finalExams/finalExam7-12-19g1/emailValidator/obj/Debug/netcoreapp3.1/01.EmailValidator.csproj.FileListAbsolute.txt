@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\bin\Debug\netcoreapp3.1\01.EmailValidator.exe
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\bin\Debug\netcoreapp3.1\01.EmailValidator.deps.json
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\bin\Debug\netcoreapp3.1\01.EmailValidator.runtimeconfig.json
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\bin\Debug\netcoreapp3.1\01.EmailValidator.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\bin\Debug\netcoreapp3.1\01.EmailValidator.dll
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\bin\Debug\netcoreapp3.1\01.EmailValidator.pdb
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\obj\Debug\netcoreapp3.1\01.EmailValidator.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\obj\Debug\netcoreapp3.1\01.EmailValidator.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\obj\Debug\netcoreapp3.1\01.EmailValidator.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\obj\Debug\netcoreapp3.1\01.EmailValidator.AssemblyInfo.cs
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\obj\Debug\netcoreapp3.1\01.EmailValidator.dll
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\obj\Debug\netcoreapp3.1\01.EmailValidator.pdb
+C:\Users\Magi\source\repos\finalExam7-12-19g1\finalExam7-12-19g1\obj\Debug\netcoreapp3.1\01.EmailValidator.genruntimeconfig.cache
