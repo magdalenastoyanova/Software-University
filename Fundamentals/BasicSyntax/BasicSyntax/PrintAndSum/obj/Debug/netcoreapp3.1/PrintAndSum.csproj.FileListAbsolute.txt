@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\BasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.exe
+C:\Users\Slavi\source\repos\BasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.deps.json
+C:\Users\Slavi\source\repos\BasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.runtimeconfig.json
+C:\Users\Slavi\source\repos\BasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\BasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.dll
+C:\Users\Slavi\source\repos\BasicSyntax\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.pdb
+C:\Users\Slavi\source\repos\BasicSyntax\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\BasicSyntax\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\BasicSyntax\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\BasicSyntax\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.dll
+C:\Users\Slavi\source\repos\BasicSyntax\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.pdb
