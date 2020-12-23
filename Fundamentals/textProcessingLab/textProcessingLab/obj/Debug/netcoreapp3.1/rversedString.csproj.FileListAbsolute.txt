@@ -1,0 +1,10 @@
+C:\Users\Slavi\source\repos\textProcessingLab\textProcessingLab\bin\Debug\netcoreapp3.1\rversedString.exe
+C:\Users\Slavi\source\repos\textProcessingLab\textProcessingLab\bin\Debug\netcoreapp3.1\rversedString.deps.json
+C:\Users\Slavi\source\repos\textProcessingLab\textProcessingLab\bin\Debug\netcoreapp3.1\rversedString.runtimeconfig.json
+C:\Users\Slavi\source\repos\textProcessingLab\textProcessingLab\bin\Debug\netcoreapp3.1\rversedString.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\textProcessingLab\textProcessingLab\bin\Debug\netcoreapp3.1\rversedString.dll
+C:\Users\Slavi\source\repos\textProcessingLab\textProcessingLab\bin\Debug\netcoreapp3.1\rversedString.pdb
+C:\Users\Slavi\source\repos\textProcessingLab\textProcessingLab\obj\Debug\netcoreapp3.1\rversedString.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\textProcessingLab\textProcessingLab\obj\Debug\netcoreapp3.1\rversedString.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\textProcessingLab\textProcessingLab\obj\Debug\netcoreapp3.1\rversedString.dll
+C:\Users\Slavi\source\repos\textProcessingLab\textProcessingLab\obj\Debug\netcoreapp3.1\rversedString.pdb
