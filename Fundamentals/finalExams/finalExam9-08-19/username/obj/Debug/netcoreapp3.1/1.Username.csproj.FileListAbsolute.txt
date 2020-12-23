@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\bin\Debug\netcoreapp3.1\1.Username.exe
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\bin\Debug\netcoreapp3.1\1.Username.deps.json
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\bin\Debug\netcoreapp3.1\1.Username.runtimeconfig.json
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\bin\Debug\netcoreapp3.1\1.Username.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\bin\Debug\netcoreapp3.1\1.Username.dll
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\bin\Debug\netcoreapp3.1\1.Username.pdb
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\obj\Debug\netcoreapp3.1\1.Username.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\obj\Debug\netcoreapp3.1\1.Username.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\obj\Debug\netcoreapp3.1\1.Username.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\obj\Debug\netcoreapp3.1\1.Username.AssemblyInfo.cs
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\obj\Debug\netcoreapp3.1\1.Username.dll
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\obj\Debug\netcoreapp3.1\1.Username.pdb
+C:\Users\Magi\source\repos\finalExam9-08-19\finalExam9-08-19\obj\Debug\netcoreapp3.1\1.Username.genruntimeconfig.cache
