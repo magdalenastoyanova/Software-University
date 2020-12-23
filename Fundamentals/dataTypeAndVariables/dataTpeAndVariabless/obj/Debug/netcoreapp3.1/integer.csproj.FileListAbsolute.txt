@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\dataTpeAndVariables\dataTpeAndVariables\bin\Debug\netcoreapp3.1\integer.exe
+C:\Users\Slavi\source\repos\dataTpeAndVariables\dataTpeAndVariables\bin\Debug\netcoreapp3.1\integer.deps.json
+C:\Users\Slavi\source\repos\dataTpeAndVariables\dataTpeAndVariables\bin\Debug\netcoreapp3.1\integer.runtimeconfig.json
+C:\Users\Slavi\source\repos\dataTpeAndVariables\dataTpeAndVariables\bin\Debug\netcoreapp3.1\integer.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\dataTpeAndVariables\dataTpeAndVariables\bin\Debug\netcoreapp3.1\integer.dll
+C:\Users\Slavi\source\repos\dataTpeAndVariables\dataTpeAndVariables\bin\Debug\netcoreapp3.1\integer.pdb
+C:\Users\Slavi\source\repos\dataTpeAndVariables\dataTpeAndVariables\obj\Debug\netcoreapp3.1\integer.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\dataTpeAndVariables\dataTpeAndVariables\obj\Debug\netcoreapp3.1\integer.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\dataTpeAndVariables\dataTpeAndVariables\obj\Debug\netcoreapp3.1\integer.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\dataTpeAndVariables\dataTpeAndVariables\obj\Debug\netcoreapp3.1\integer.dll
+C:\Users\Slavi\source\repos\dataTpeAndVariables\dataTpeAndVariables\obj\Debug\netcoreapp3.1\integer.pdb
