@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\methodsLab\methodsLab\bin\Debug\netcoreapp3.1\methodsLab.exe
+C:\Users\Slavi\source\repos\methodsLab\methodsLab\bin\Debug\netcoreapp3.1\methodsLab.deps.json
+C:\Users\Slavi\source\repos\methodsLab\methodsLab\bin\Debug\netcoreapp3.1\methodsLab.runtimeconfig.json
+C:\Users\Slavi\source\repos\methodsLab\methodsLab\bin\Debug\netcoreapp3.1\methodsLab.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\methodsLab\methodsLab\bin\Debug\netcoreapp3.1\methodsLab.dll
+C:\Users\Slavi\source\repos\methodsLab\methodsLab\bin\Debug\netcoreapp3.1\methodsLab.pdb
+C:\Users\Slavi\source\repos\methodsLab\methodsLab\obj\Debug\netcoreapp3.1\methodsLab.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\methodsLab\methodsLab\obj\Debug\netcoreapp3.1\methodsLab.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\methodsLab\methodsLab\obj\Debug\netcoreapp3.1\methodsLab.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\methodsLab\methodsLab\obj\Debug\netcoreapp3.1\methodsLab.dll
+C:\Users\Slavi\source\repos\methodsLab\methodsLab\obj\Debug\netcoreapp3.1\methodsLab.pdb
