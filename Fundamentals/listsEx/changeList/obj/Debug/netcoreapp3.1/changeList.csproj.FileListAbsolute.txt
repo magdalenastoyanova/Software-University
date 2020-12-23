@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\listsEx\changeList\bin\Debug\netcoreapp3.1\changeList.exe
+C:\Users\Slavi\source\repos\listsEx\changeList\bin\Debug\netcoreapp3.1\changeList.deps.json
+C:\Users\Slavi\source\repos\listsEx\changeList\bin\Debug\netcoreapp3.1\changeList.runtimeconfig.json
+C:\Users\Slavi\source\repos\listsEx\changeList\bin\Debug\netcoreapp3.1\changeList.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\listsEx\changeList\bin\Debug\netcoreapp3.1\changeList.dll
+C:\Users\Slavi\source\repos\listsEx\changeList\bin\Debug\netcoreapp3.1\changeList.pdb
+C:\Users\Slavi\source\repos\listsEx\changeList\obj\Debug\netcoreapp3.1\changeList.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\listsEx\changeList\obj\Debug\netcoreapp3.1\changeList.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\listsEx\changeList\obj\Debug\netcoreapp3.1\changeList.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\listsEx\changeList\obj\Debug\netcoreapp3.1\changeList.dll
+C:\Users\Slavi\source\repos\listsEx\changeList\obj\Debug\netcoreapp3.1\changeList.pdb
