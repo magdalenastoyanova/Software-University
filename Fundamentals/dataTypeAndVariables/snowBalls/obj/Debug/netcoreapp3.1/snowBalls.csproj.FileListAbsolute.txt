@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\dataTpeAndVariables\snowBalls\bin\Debug\netcoreapp3.1\snowBalls.exe
+C:\Users\Slavi\source\repos\dataTpeAndVariables\snowBalls\bin\Debug\netcoreapp3.1\snowBalls.deps.json
+C:\Users\Slavi\source\repos\dataTpeAndVariables\snowBalls\bin\Debug\netcoreapp3.1\snowBalls.runtimeconfig.json
+C:\Users\Slavi\source\repos\dataTpeAndVariables\snowBalls\bin\Debug\netcoreapp3.1\snowBalls.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\dataTpeAndVariables\snowBalls\bin\Debug\netcoreapp3.1\snowBalls.dll
+C:\Users\Slavi\source\repos\dataTpeAndVariables\snowBalls\bin\Debug\netcoreapp3.1\snowBalls.pdb
+C:\Users\Slavi\source\repos\dataTpeAndVariables\snowBalls\obj\Debug\netcoreapp3.1\snowBalls.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\dataTpeAndVariables\snowBalls\obj\Debug\netcoreapp3.1\snowBalls.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\dataTpeAndVariables\snowBalls\obj\Debug\netcoreapp3.1\snowBalls.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\dataTpeAndVariables\snowBalls\obj\Debug\netcoreapp3.1\snowBalls.dll
+C:\Users\Slavi\source\repos\dataTpeAndVariables\snowBalls\obj\Debug\netcoreapp3.1\snowBalls.pdb
