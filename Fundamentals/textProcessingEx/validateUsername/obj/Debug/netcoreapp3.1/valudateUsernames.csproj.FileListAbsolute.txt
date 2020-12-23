@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\bin\Debug\netcoreapp3.1\valudateUsernames.exe
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\bin\Debug\netcoreapp3.1\valudateUsernames.deps.json
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\bin\Debug\netcoreapp3.1\valudateUsernames.runtimeconfig.json
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\bin\Debug\netcoreapp3.1\valudateUsernames.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\bin\Debug\netcoreapp3.1\valudateUsernames.dll
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\bin\Debug\netcoreapp3.1\valudateUsernames.pdb
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\obj\Debug\netcoreapp3.1\valudateUsernames.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\obj\Debug\netcoreapp3.1\valudateUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\obj\Debug\netcoreapp3.1\valudateUsernames.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\obj\Debug\netcoreapp3.1\valudateUsernames.AssemblyInfo.cs
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\obj\Debug\netcoreapp3.1\valudateUsernames.dll
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\obj\Debug\netcoreapp3.1\valudateUsernames.pdb
+C:\Users\Magi\source\repos\textProcessingEx\textProcessingEx\obj\Debug\netcoreapp3.1\valudateUsernames.genruntimeconfig.cache
