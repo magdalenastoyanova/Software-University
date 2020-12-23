@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\dataTpeAndVariables\sumDigits\bin\Debug\netcoreapp3.1\sumDigits.exe
+C:\Users\Slavi\source\repos\dataTpeAndVariables\sumDigits\bin\Debug\netcoreapp3.1\sumDigits.deps.json
+C:\Users\Slavi\source\repos\dataTpeAndVariables\sumDigits\bin\Debug\netcoreapp3.1\sumDigits.runtimeconfig.json
+C:\Users\Slavi\source\repos\dataTpeAndVariables\sumDigits\bin\Debug\netcoreapp3.1\sumDigits.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\dataTpeAndVariables\sumDigits\bin\Debug\netcoreapp3.1\sumDigits.dll
+C:\Users\Slavi\source\repos\dataTpeAndVariables\sumDigits\bin\Debug\netcoreapp3.1\sumDigits.pdb
+C:\Users\Slavi\source\repos\dataTpeAndVariables\sumDigits\obj\Debug\netcoreapp3.1\sumDigits.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\dataTpeAndVariables\sumDigits\obj\Debug\netcoreapp3.1\sumDigits.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\dataTpeAndVariables\sumDigits\obj\Debug\netcoreapp3.1\sumDigits.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\dataTpeAndVariables\sumDigits\obj\Debug\netcoreapp3.1\sumDigits.dll
+C:\Users\Slavi\source\repos\dataTpeAndVariables\sumDigits\obj\Debug\netcoreapp3.1\sumDigits.pdb
