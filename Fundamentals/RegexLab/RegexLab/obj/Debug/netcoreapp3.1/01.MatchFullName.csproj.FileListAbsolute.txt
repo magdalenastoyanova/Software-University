@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\01.MatchFullName.exe
+C:\Users\Magi\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\01.MatchFullName.deps.json
+C:\Users\Magi\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.json
+C:\Users\Magi\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\01.MatchFullName.dll
+C:\Users\Magi\source\repos\RegexLab\RegexLab\bin\Debug\netcoreapp3.1\01.MatchFullName.pdb
+C:\Users\Magi\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\01.MatchFullName.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\01.MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfo.cs
+C:\Users\Magi\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\01.MatchFullName.dll
+C:\Users\Magi\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\01.MatchFullName.pdb
+C:\Users\Magi\source\repos\RegexLab\RegexLab\obj\Debug\netcoreapp3.1\01.MatchFullName.genruntimeconfig.cache
