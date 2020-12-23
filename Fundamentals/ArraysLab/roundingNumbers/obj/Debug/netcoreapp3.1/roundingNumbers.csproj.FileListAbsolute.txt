@@ -1,0 +1,11 @@
+C:\Users\Slavi\source\repos\ArraysLab\roundingNumbers\bin\Debug\netcoreapp3.1\roundingNumbers.exe
+C:\Users\Slavi\source\repos\ArraysLab\roundingNumbers\bin\Debug\netcoreapp3.1\roundingNumbers.deps.json
+C:\Users\Slavi\source\repos\ArraysLab\roundingNumbers\bin\Debug\netcoreapp3.1\roundingNumbers.runtimeconfig.json
+C:\Users\Slavi\source\repos\ArraysLab\roundingNumbers\bin\Debug\netcoreapp3.1\roundingNumbers.runtimeconfig.dev.json
+C:\Users\Slavi\source\repos\ArraysLab\roundingNumbers\bin\Debug\netcoreapp3.1\roundingNumbers.dll
+C:\Users\Slavi\source\repos\ArraysLab\roundingNumbers\bin\Debug\netcoreapp3.1\roundingNumbers.pdb
+C:\Users\Slavi\source\repos\ArraysLab\roundingNumbers\obj\Debug\netcoreapp3.1\roundingNumbers.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\ArraysLab\roundingNumbers\obj\Debug\netcoreapp3.1\roundingNumbers.AssemblyInfoInputs.cache
+C:\Users\Slavi\source\repos\ArraysLab\roundingNumbers\obj\Debug\netcoreapp3.1\roundingNumbers.AssemblyInfo.cs
+C:\Users\Slavi\source\repos\ArraysLab\roundingNumbers\obj\Debug\netcoreapp3.1\roundingNumbers.dll
+C:\Users\Slavi\source\repos\ArraysLab\roundingNumbers\obj\Debug\netcoreapp3.1\roundingNumbers.pdb
